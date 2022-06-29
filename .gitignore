@@ -1,0 +1,8 @@
+#containing secrets for local debug
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+
+#local cache
+.terraform
